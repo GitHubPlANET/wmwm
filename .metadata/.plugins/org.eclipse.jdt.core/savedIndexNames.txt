@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\Users\15821\Desktop\新建文件夹 (2)\yychat6\.metadata\.plugins\org.eclipse.jdt.core
+2512823978.index
+3444604706.index
+3844001026.index
+4138641204.index
+3571079241.index
+1738952771.index
+1956871445.index
+3976497538.index
+876496183.index
+2093993140.index
+3845107644.index
+1529576447.index
+3431666422.index
+830783683.index
+323184732.index
+3215621178.index
+3092260410.index
+2747183228.index
+2085377670.index
